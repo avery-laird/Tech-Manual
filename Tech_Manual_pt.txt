@@ -1,0 +1,100 @@
+
+	Preface
+
+Fail to honour people,
+They fail to honour you;
+But of a good leader,
+Who speaks little,
+When his work is done,
+His aims fulfilled,
+They will say,
+"We did this ourselves."
+
+- Lao Tzu
+
+
+I believe this qoute beautifully describes the fine balance one must juggle when given the responsibility of Tech Steward. What did Lao Tzu mean by "fail to honour people"? Is it because you didn't shower them in praise, or shove them in the spotlight for a task they accomplished? I don't think so. To me, he meant that if you don't respect people, you will never gain respect in return. This is very, very important; as a Tech Steward, you must be respected by your peers and colleagues on the team, and hopefully out of the team. Out of all the duties you must accomplish, it will be the hardest, because respect is something that must be earned, it can't be bought or taken. You have to honour people, and in return, they will honour you. Next, what does this wierd sentence mean here, "But of a good leader / Who speaks little"? It means a lot of things. First, he says that a good leader is not one that speaks a lot about all these wonderful things we should do - then when it comes to accomplishing those things, it all goes up in smoke. A good leader guides, and, well, leads! He or she gives everyone on the team the tools to accomplish what needs to be done, not do everything for them. Then, "When his work is done / His aims fulfilled / They will say / "We did this ourselves"". Of course, the irony of this situation does not elude me - here I am, a leader, telling you that a good leader doesn't tell people what they should think! That is why I want you to study the above qoute, and study it hard, then draw your own conclusions. What I have written here is a guide, a tool - and it's completely imperfect. There are any number of things that can be changed to be more effecient, and it's your job to decide what you want to make better, because that's what our role really is here - to make the position of Tech Steward better than how we left it.
+
+
+
+	General
+
+
+Safety: In the tech team, Safety is our number one priority. You've probably heard a lot of stories, and I'm probably in some of them. However, something you probably don't know is that the whole time, we were being completely safe. There are a lot of things we do on the tech team that are dangerous, and that's because they can be, if you don't use the proper safety techniques. A lot of the things we do sound unsafe, like hanging the Country Fair speakers with gaffer tape, and that's why that make a very entertaining story - but they are totally safe as long as you don't do anything to compromise that safety. That could be something you do unknowningly, which will happen accidentally but should be avoided at all costs. Mistakes will happen, but that doesn't stop you from doing all you can to prevent them, especially when it comes to safety. Safety could also be something you compromise knowningly. I cannot stress this enough: never cut corners. EVER. I don't care if you are under pressure to get something done, whether it be on time, on budget or with the least amount of work, you must NEVER give in to that pressure. Sometimes that means telling someone that you can't get it setup that fast, or that it's going to cost them a bit of extra money - and although that's never terrific, it will always beat someone getting hurt.
+
+
+Safety Equipment: Harness. A harness should always be used when you're doing something high up and exposed. It shouldn't be used on a scissor or bucket lift, but for rigging and hanging purposes. It is almost always best to use the 5-point harness rather than the lower body harness. You can only stay in a lower body leg-loop harness for about 20 minutes before cirulation is completely cut off to the lower body. For a 5 point harness, that time is greatly extended. For harness information, see page ____. As for other safety apparatus, none are used daily or even yearly. For any more information you would need regarding safe usage, consult the section of the induvidual event. 
+
+
+Attitude: The tech team has a reputation of being hardworking and somewhat eccentric. In my opinion, this is totally okay - as long as it doesn't go too far. For example, there's a story where some previous members bought a fibre optic lamp, the ones with the lit strands. When someone came over and fiddled with it, they started exclaiming not to touch it, because it was some kind of "sophisticated communication device!" Hilarious? Of course! Respectful? It depends. These types of pranks are funny once in a while, and I'm by no means saying you should never have the odd joke. Hopefully, the tech team has many in-jokes, that's what makes it enjoyable! However, it's all about intention - you've got to ask yourself whether the joke has a malicious intent, or is just a good natured piece of humor, which are really important in the tech team.
+
+
+
+
+	Events
+
+First Week of September: Full School Assembly
+ 
+Besides the normal assemblies, this is the event you'll find youself doing the most. The basic setup procedure goes as follows:
+
+	Gymnasium Lamps: Full SChool Assembly
+
+
+1. Find NSI Lighting Console. On how to program the board, see "NSI Lighting Board Operation".
+2. Plug one XLR into the control panel located near the window for the P.E offices, by the gym P.A cabinet.
+3. The MALE end goes into the control panel, and the FEMALE end connects to the console. That is VERY IMPORTANT!
+4. Up all of the channels, and take note of which lights respond. I like to number the lights from left to right in my head.
+5. Grab someone to stay in the gym with a radio, and then head up to the tech room.
+6. Once in the tech room, start with the "A" patch. Say, "Plugged in!" over the radio. The person in the gym should say, "That's it!" or, "On!" if the patch powers up one of the lights. If not, they should say, "Nope!" or, "Negative!", something along those lines. (This is the procedure I use until I have mapped out all of the active circuits, which is soon hopefully.)
+7. Once you have cycled through all of the patches, all of the lights should be on. Good job! If not, one something is wrong. Time for some good ol'fashioned troubleshooting! For general troubleshooting tips, see "Troubleshooting." I'll explain the specific troubleshooting next.
+
+	Gym Light Troubleshooting: Full School Assembly
+
+For a beginner, the lights in the gymnasium are quite possibly the most complicated, tempermental and screwy pieces of equipment you'll ever have to deal with. They're an enormous pain! However, there is a way to tame the beast. Once you've figured out the naunces of the setup, you and the lights can hug, kiss, makeup and be friends forever. The more you know about how the setup works, the better you can troubleshoot. Do this troubleshooting enough times, and you can guess the problem almost right away. Let's start with how everything fits together, in order from lighting console to dimmerpack:
+
+	Microplex (Data)
+
+1. XLR from console to utility panel.
+2. XLR from the outlet of the utility panel, up and along the ceiling of the gym to the far back right side and to the ceiling of the tech room.
+3. XLR from the ceiling of the tech room to the dimmerpack.
+  	
+	
+	Circuit (Power)
+
+1. Dimmerpack to the ceiling of the tech room.
+2. Through the ceiling of the tech room to the ceiling / girders of the gym.
+3. From the girders to the various outlets on the girders.
+4. Outlets to lamp.
+
+
+Now that you know this information, see what you can do to find the source of the problem. Some common problems to check for are blown bulbs and ripped plugs. That about does it for lighting. On to sound!
+
+
+	Gymnasium Sound: Full School Assembly
+
+This is a bit of a tricky one too. The first thing you need to do is figure out how many mics are needed, because most of the time you can get away with just using the wireless mics. Next, make sure you talk to Mr. Burrage a few days in advance. I cannot count how many times, 20 minutes before the full school, he'll suddenly remember the whole choir's singing. Silly Mr. Burrage! However, not so funny when you're scrambling for eight mics and trying to haul that huge onyx mixer through the hall, plus the snake, the other XLR - you get the idea. So, bottom, line, the first thing you've got to do is figure out how many mics you need. If you need more than 2 wirless mics, you can grab some more from the P.A cabinet in the great hall. Overall, if you need more than 4 you've got to bring out the big guns. For the choir, always use a seperate mixing board!
+
+Let's say the choir's playing. The first thing you need to do is, once again, figure out how many mics they need. Normally it's eight. Then, grab x amount of mics, the same amount of XLR, the snake, a mixing board and bring it back to the gym. Set it up on one of the cafeteria tables. Plug the snake into the patch panel by the gym P.A cabinet, 1 - 8 (I usually do 4 - 12, don't ask me why). Then, into the mixer. Next, go to the stage and layout the mics. Plug the XLR in the mics, then into the corresponding patches by the stage. Plug the mixer into the cabinet on an unused input, usually iPod is the best. Next, route EVERYTHING through the mixing board (except for the onboard mics). Ever watch Star Trek? ROUTE ALL POWER TO SHIELDS! No? Anyways, now everything but the two onboard mics should be routed and controlled through the seperate mixer. Start a mic check on all mics, then move on to the next step.
+
+
+Now we can start on the piano and computer cart. For the piano, find anywhich way to convert the quarter-inch output to XLR input. Usually you use a quarter-inch to female, then a female to female coupler, then patch it though the front panel, through the snake and into the mixer. The same for the computer cart, although usually it has a straight male XLR output. Now, if you're going to get hum, it's going to be about 99% likely that it's the computer cart or the piano. That's definitley a proven scientific statistic. Just to be sure, I always put a hum eliminator on the computer car and the piano.
+
+I think that does it for sound. Next, Video!
+
+
+	Gymnasium Video: Full School Assembly
+
+You're in the home stretch! This is the relatively easy part, because the projector just has a nice, simple VGA input. There you have it, the full school assembly!
+
+	Wrapping up: Full school Assembly
+
+That should just about do it for the full school assembly. This is a difficult event, and there's always something unexpected no matter how many times you do it. Just remember that mistakes happen, just figure out how it happened and learn from it so you can learn to prevent it in the future.
+
+	Mid-September: Terry Fox Run / House Picnic
+
+The house picnic is usually more low key and fun, but we still need to deliver clear and audible music and P.A annoucements. That's actually really hard to do; the StagePass 500's just don't cut it for outside, they're an inside P.A system. Once you get out about 15 metres, the sound just cuts off and is really hard to hear. Unfortunately, until we get more powered speakers the SP500's will have to do. Here's how to squeeze out the most bang for your buck:  
+
+	Speaker Positioning: Terry Fox Run / House Picnic
+
+1. Avoid Involuntary Noise Cancelling
+2. Power Source 
