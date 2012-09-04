@@ -1,90 +1,87 @@
-\contentsline {chapter}{\numberline {1}General}{9}
-\contentsline {chapter}{\numberline {2}Events}{11}
-\contentsline {chapter}{\numberline {3}Assemblies}{13}
-\contentsline {section}{\numberline {3.1}Assembly Configuration: Assembly}{13}
-\contentsline {chapter}{\numberline {4}Full School Assembly}{15}
-\contentsline {section}{\numberline {4.1}Gymnasium Lamps: Full School Assembly}{15}
-\contentsline {section}{\numberline {4.2}Gym Light Troubleshooting: Full School Assembly }{16}
-\contentsline {section}{\numberline {4.3}Gymnasium Sound: Full School Assembly}{17}
-\contentsline {section}{\numberline {4.4}Gymnasium Video: Full School Assembly}{18}
-\contentsline {section}{\numberline {4.5}Wrapping up: Full school Assembly}{18}
-\contentsline {chapter}{\numberline {5}Mid-September: Terry Fox Run / House Picnic}{19}
-\contentsline {section}{\numberline {5.1}Speaker Positioning: Terry Fox Run / House Picnic}{19}
-\contentsline {section}{\numberline {5.2}SP500 Mixer Configuration: Terry Fox Run / House Picnic}{20}
-\contentsline {chapter}{\numberline {6}End of October: Manning Park Jazz Retreat}{21}
-\contentsline {section}{\numberline {6.1}Equipment List: Manning Park Jazz Retreat}{21}
-\contentsline {section}{\numberline {6.2}Setup: Manning Park Jazz Retreat}{22}
-\contentsline {section}{\numberline {6.3}Wrapping up: Manning Park Jazz Retreat}{23}
-\contentsline {chapter}{\numberline {7}Mid-November: Gala}{25}
-\contentsline {chapter}{\numberline {8}Mid-December: Winter Concert}{27}
-\contentsline {section}{\numberline {8.1}Lighting Overview: Winter Concert}{27}
-\contentsline {section}{\numberline {8.2}Rental Invoice: Winter Concert}{27}
-\contentsline {section}{\numberline {8.3}Setup - Shears, LED Blasters and Hazer: Winter Concert}{29}
-\contentsline {subsection}{\numberline {8.3.1}LED Blasters}{29}
-\contentsline {subsection}{\numberline {8.3.2}Shears}{30}
-\contentsline {subsection}{\numberline {8.3.3}Hazer}{31}
-\contentsline {section}{\numberline {8.4}Lighting: Winter Concert}{31}
-\contentsline {subsection}{\numberline {8.4.1}DMX Loop}{31}
-\contentsline {subsection}{\numberline {8.4.2}Lighting - Patching and Programming: Winter Concert}{32}
-\contentsline {subsection}{\numberline {8.4.3}Lighting - House lights: Winter Concert}{33}
-\contentsline {subparagraph}{Very Important:}{33}
-\contentsline {section}{\numberline {8.5}Sound: Winter Concert}{33}
-\contentsline {subsection}{\numberline {8.5.1}Speaker Setup: Winter Concert}{33}
-\contentsline {subsection}{\numberline {8.5.2}Microphone Setup: Winter Concert}{34}
-\contentsline {section}{\numberline {8.6}Video: Winter Concert}{34}
-\contentsline {chapter}{\numberline {9}Late December: Christmas Feast}{35}
-\contentsline {subsection}{\numberline {9.0.1}Video Desk Setup: Christmas Feast}{35}
-\contentsline {subsection}{\numberline {9.0.2}Lighting: Christmas Feast}{36}
-\contentsline {chapter}{\numberline {10}Early January: Ride to Survive}{37}
-\contentsline {chapter}{\numberline {11}Late February: School Play}{39}
-\contentsline {subsection}{\numberline {11.0.3}Possible Pitfalls: School Play}{39}
-\contentsline {subparagraph}{Stage}{39}
-\contentsline {subparagraph}{Plan your programming}{39}
-\contentsline {subparagraph}{Program for everyone}{39}
-\contentsline {subsection}{\numberline {11.0.4}DMX Loop}{40}
-\contentsline {subsection}{\numberline {11.0.5}Speaker Setup: School Play}{40}
-\contentsline {subsection}{\numberline {11.0.6}LED Blasters}{41}
-\contentsline {subsection}{\numberline {11.0.7}Shears}{42}
-\contentsline {chapter}{\numberline {12}Early May: Country Fair}{45}
-\contentsline {section}{\numberline {12.1}Pre-planning: Country Fair}{45}
-\contentsline {section}{\numberline {12.2}Setup: Country Fair}{45}
-\contentsline {subsection}{\numberline {12.2.1}Hanging the Speakers: Country Fair}{46}
-\contentsline {subsection}{\numberline {12.2.2}Commons: Country Fair}{47}
-\contentsline {subsection}{\numberline {12.2.3}General Speaker placement: Country Fair}{48}
-\contentsline {subsection}{\numberline {12.2.4}Senior School: Country Fair}{48}
-\contentsline {subsection}{\numberline {12.2.5}Senior to Junior School: Country Fair}{48}
-\contentsline {chapter}{\numberline {13}Mid May: TREK}{49}
-\contentsline {section}{\numberline {13.1}Power Setup: TREK}{49}
-\contentsline {section}{\numberline {13.2}Acoustics: TREK}{50}
-\contentsline {chapter}{\numberline {14}Late May: Cafe Concerto}{51}
-\contentsline {section}{\numberline {14.1}Rental Equipment setup: Cafe Concerto}{51}
-\contentsline {subsection}{\numberline {14.1.1}LED Blasters: Cafe Concerto}{53}
-\contentsline {subsection}{\numberline {14.1.2}Shears: Cafe Concerto}{53}
-\contentsline {subsection}{\numberline {14.1.3}Hazer Setup: Cafe Concerto}{54}
-\contentsline {section}{\numberline {14.2}Sound: Cafe Concerto}{54}
-\contentsline {subsection}{\numberline {14.2.1}Speaker Setup: Cafe Concerto}{54}
-\contentsline {subsection}{\numberline {14.2.2}Microphone Setup: Cafe Concerto}{55}
-\contentsline {section}{\numberline {14.3}Lighting: Cafe Concerto}{56}
-\contentsline {subsection}{\numberline {14.3.1}DMX Loop}{56}
-\contentsline {subsection}{\numberline {14.3.2}Lighting - Patching and Programming: Cafe Concerto}{57}
-\contentsline {chapter}{\numberline {15}Late May: Cafe Concerto}{59}
-\contentsline {section}{\numberline {15.1}Rental Equipment setup: Cafe Concerto}{59}
-\contentsline {subsection}{\numberline {15.1.1}LED Blasters: Cafe Concerto}{61}
-\contentsline {subsection}{\numberline {15.1.2}Shears: Cafe Concerto}{61}
-\contentsline {subsection}{\numberline {15.1.3}Hazer Setup: Cafe Concerto}{62}
-\contentsline {section}{\numberline {15.2}Sound: Cafe Concerto}{63}
-\contentsline {subsection}{\numberline {15.2.1}Speaker Setup: Cafe Concerto}{63}
-\contentsline {subsection}{\numberline {15.2.2}Microphone Setup: Cafe Concerto}{63}
-\contentsline {section}{\numberline {15.3}Lighting: Cafe Concerto}{64}
-\contentsline {subsection}{\numberline {15.3.1}DMX Loop}{64}
-\contentsline {subsection}{\numberline {15.3.2}Lighting - Patching and Programming: Winter Concert}{65}
-\contentsline {section}{\numberline {15.4}Video: Cafe Concerto}{66}
-\contentsline {section}{\numberline {15.5}Video: Cafe Concerto}{66}
-\contentsline {chapter}{\numberline {16}End of year Ceremonies}{69}
-\contentsline {section}{\numberline {16.1}Gymnasium Lamps: End of Year}{69}
-\contentsline {section}{\numberline {16.2}Gym Light Troubleshooting: End of Year}{70}
-\contentsline {section}{\numberline {16.3}Gymnasium Sound: End of Year}{71}
-\contentsline {section}{\numberline {16.4}Gymnasium Video: End of Year}{72}
-\contentsline {section}{\numberline {16.5}Wrapping up: End of Year}{72}
-\contentsline {chapter}{\numberline {17}Index}{73}
-\contentsline {chapter}{\numberline {A}Appendix}{75}
+\select@language {english}
+\contentsline {section}{Acknowledgements}{4}
+\contentsline {section}{How to read this book}{4}
+\contentsline {chapter}{General}{6}
+\contentsline {subsection}{Safety Equipment}{6}
+\contentsline {subsection}{Attitude}{6}
+\contentsline {chapter}{Events}{7}
+\contentsline {section}{Assemblies}{7}
+\contentsline {section}{Assembly Configuration}{7}
+\contentsline {section}{Full School Assembly}{7}
+\contentsline {subsection}{Gymnasium Lamps}{7}
+\contentsline {subsection}{Gym Light Troubleshooting}{8}
+\contentsline {subsubsection}{Microplex (Data)}{8}
+\contentsline {subsubsection}{Circuit (Power)}{8}
+\contentsline {subsection}{Gymnasium Sound}{9}
+\contentsline {subsection}{Gymnasium Video}{9}
+\contentsline {subsection}{Wrapping up}{9}
+\contentsline {section}{Mid-September: Terry Fox Run / House Picnic}{9}
+\contentsline {subsection}{Speaker Positioning}{10}
+\contentsline {subsection}{SP500 Mixer Configuration}{10}
+\contentsline {section}{End of October: Manning Park Jazz Retreat}{10}
+\contentsline {subsection}{Equipment List: Manning Park Jazz Retreat}{11}
+\contentsline {subsection}{Setup}{11}
+\contentsline {subsection}{Wrapping up}{12}
+\contentsline {section}{Mid-November: Gala}{12}
+\contentsline {section}{Mid-December: Winter Concert}{12}
+\contentsline {subsection}{Lighting Overview}{12}
+\contentsline {subsection}{sample rental invoice}{12}
+\contentsline {subsection}{Shears, LED Blasters and Hazer}{13}
+\contentsline {subsubsection}{LED Blasters}{13}
+\contentsline {subsubsection}{Shears}{13}
+\contentsline {subsubsection}{Hazer}{14}
+\contentsline {subsection}{Lighting}{14}
+\contentsline {subsubsection}{DMX Loop}{14}
+\contentsline {subsubsection}{Lighting: Patching and Programming}{15}
+\contentsline {subsubsection}{Lighting: House Lights}{15}
+\contentsline {subparagraph}{Very Important:}{15}
+\contentsline {subsection}{Sound}{16}
+\contentsline {subsubsection}{Speaker Setup}{16}
+\contentsline {subsubsection}{Microphone Setup}{16}
+\contentsline {subsection}{Video}{17}
+\contentsline {section}{Late December: Christmas Feast}{17}
+\contentsline {subsection}{Video Desk Setup}{17}
+\contentsline {subsection}{Lighting}{18}
+\contentsline {section}{Early January: Ride to Survive}{18}
+\contentsline {section}{Late February: School Play}{18}
+\contentsline {subsection}{Possible Pitfalls}{18}
+\contentsline {subparagraph}{Stage}{18}
+\contentsline {subparagraph}{Plan your programming}{18}
+\contentsline {subparagraph}{Program for everyone}{19}
+\contentsline {subsection}{DMX Loop}{19}
+\contentsline {subsection}{Speaker Setup}{19}
+\contentsline {subsection}{LED Blasters}{20}
+\contentsline {subsection}{Shears}{20}
+\contentsline {section}{Early May: Country Fair}{21}
+\contentsline {subsection}{Pre-planning}{21}
+\contentsline {subsection}{Setup}{21}
+\contentsline {subsection}{Hanging the Speakers}{22}
+\contentsline {subsection}{Commons}{22}
+\contentsline {subsection}{General Speaker placement}{23}
+\contentsline {subsection}{Senior School}{23}
+\contentsline {subsection}{Senior to Junior School}{23}
+\contentsline {section}{Mid May: TREK}{23}
+\contentsline {subsection}{Power Setup}{23}
+\contentsline {subsection}{Acoustics}{24}
+\contentsline {section}{Late May: Cafe Concerto}{25}
+\contentsline {subsection}{Rental Equipment setup}{25}
+\contentsline {subsection}{LED Blasters}{25}
+\contentsline {subsection}{Shears}{25}
+\contentsline {subsection}{Hazer}{26}
+\contentsline {subsection}{Sound}{26}
+\contentsline {subsubsection}{Speakers}{26}
+\contentsline {subsection}{Microphones}{27}
+\contentsline {subsection}{Lighting}{27}
+\contentsline {subsubsection}{DMX Loop}{27}
+\contentsline {subsection}{Lighting: Patching and Programming}{28}
+\contentsline {subsection}{Video}{28}
+\contentsline {section}{End of Year Ceremonies}{29}
+\contentsline {subsection}{Gymnasium Lamps}{29}
+\contentsline {subsection}{Gymnasium Light Troubleshooting}{29}
+\contentsline {subsection}{Microplex (Data)}{30}
+\contentsline {subsection}{Circuit (Power)}{30}
+\contentsline {subsection}{Gymnasium Sound}{30}
+\contentsline {subsection}{Gymnasium Video}{31}
+\contentsline {subsection}{Wrapping up}{31}
+\contentsline {chapter}{Index}{32}
+\contentsline {chapter}{Appendix}{34}
