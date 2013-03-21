@@ -1,0 +1,46 @@
+* CHANGES
+
+  + FUTURE SELF: Below I have converted the list of changes McInnes gave me into an Orgmode TODO list. You're welcome.
+
+
+** TODO Page 6:  General - Safety
+   + I am concerned about the comment about tech team members hearing a lot of stories, some which you assume include you and that at the whole time "we were being completely safe".   I am not certain what the objective of this opening is, but my concern arises from the discussions you and I have had about how one of the reasons I was asked to manage the Tech team was concerns about safety.  It is not true that the Tech team members were always safe.  Before your participation on the team, there were many instances, some I witnessed and others that were reported to me, that were completely unsafe and even dangerous.  So my concern is only that if any current tech team members have heard of the early stories, it is perhaps misleading to make a blanket statement that everything was safe.  Perhaps it would be more effective to just focus on the importance of safety as you very eloquently do in the rest of the paragraph.  It is no understatement to say that the school and the parents would shut down the tech team program if any student were ever seriously injured in the process of delivering tech services.
+
+** TODO Page 9: Assemblies
+   + Perhaps you could expand on the importance of being there early and how there are two teams: lighting and sound/PC  You might touch on the importance of learning the programme in advance (as much as possible) and also touching on the issues one might encounter with PC Powerpoints and videos.  You could even have a section on audio that would list the microphone options; two wireless handheld mics, one headset wireless mic and the speakers' lecturn mic via cable. You could comment upon the importance of checking the wireless batteries and where to get fresh ones. Also, you might comment on how the piano needs to be patched in.  Finally you might mention how the PC is run through the Hum Eliminator to remove ground hum.  If you really wanted to get into detail, you could have some description of operation of the projector such as lowering the screen, blanking the projector between presentations and the importance of powering it off after each assembly.
+
+** TODO Page 10: Full School Assemblies
+   + You might want to add some commentary about the fact that the FSA can be one of the more complex events we do as the programme can often change at the last minute and that generally, we only have about two hours to set up what can be a three stage event with choirs, play previews, musical performances, speeches, presentations and more.  Just the lighting alone is always challenging.
+
+** TODO Page 11: Gymnasium Sound
+   + You will need to update the manual to state that the Senior lecturn now uses a wired mic.  The mixer input in the cabinet to use is the line input as it is an XLR connector and the output of the Mackie 24.4 would be XLR too.  You can remove the reference to the computer cart and point out how the sound from the video switcher feeds into the Peavey mixer in the PA cabinet.
+
+** TODO Page 12: Gymnasium Video
+   + Obviously with the addition of the Senior Gym projector and video switcher, this section needs to be updated in detail.  The other area that needs description is the set up of the confidence monitors.
+
+** TODO Page 13: Mid-September: Terry Fox Run/House Picnic
+   + In the first paragraph you state that the StagePass 500 is not an outside PA system.  This is incorrect.  I did considerable research on this product before purchasing it and between any number of positive reviews for outside venue use and my own experience now, I can unequivocally state that the StagePass 500 is perfectly suited for the Welcome Back Picnic, the House Picnic, TREK, Junior Sports Day or any other outside event where PA is required.  The Tech Team may choose to use the Acoustic speakers, amplifiers and Mackie mixer for TREK or other outside events, but it is certainly not required.  I am concerned that your description will cause confusion in the Tech team and lead them to wonder why we would buy this PA. If you have any concerns or questions about equipment purchases you are invited to discuss them with me at any time.  
+
+** TODO Page 14: Mid-September: Terry Fox Run/House Picnic
+   + You may want to reconsider the approach of only bringing a radio for the PA music.  It seems to me that an iPod (we now own one for AV use) with a playlist would be more efficient as it would allow you to play commercial free, and appropriate music.
+
+** TODO Page 18: Mid-December: Winter Concert - Lighting Overview
+   + Would you please add some commentary to the effect that I record each concert and therefore require white light on all performers faces.  While coloured back lighting can be OK, even green or some other saturated colours can look bizarre on video.  This comment would be true for any concert or event.
+
+** TODO Page 33: Early May: Country Fair - Pre-Planning
+   + Please change this section to reflect the fact that any equipment orders/rentals will need to be coordinated through me and that includes the Scissor lift.
+
+** TODO Page 36: Mid May: TREK
+   + I am concerned about your description of the 240V breakout panel as not being all that sturdy and comprised of "hockey sticks and plywood".  Since the first objective of the tech team is safety, it is imperative that we examine this device and see if it it truly safe or can be made safe.  Any time that tech team members are plugging in 240V plugs or having to move stoves and unplug high voltage plugs there are huge potential risks.  This is why you may want to consider using the StagePass 500 instead of going to the "time consuming" process as you describe it of setting up the acoustics, the amps and all the other equipment.  At the very least, I would hope to see some comments here about the risks of unplugging the stove.  Are you doing it while the plug is live or are you telling the team to ensure that the breaker is off when unplugging a high voltage plug?
+
+** TODO Page 37: Acoustics
+   + I am curious what the problems are that you have had with the Mackie mixer that you reference here?  Also, the other Mackie mixer you make reference to is a Mackie 1402-VLZ, 14 channel, 6 XLR mixer that belongs to me personally and is in my office.  I am happy to loan it out for this type of use.  For microphones, you may want to recommend that one or two of the wireless mics from the Great Hall PA would be more useful as there isn't the danger of someone tripping over a mic cable.
+
+** TODO Page 42: Microphones
+   + The Mackie Onyx mixer has four channel sub-mix capability that is easy to use.  This allows all mics to be pre-set and assigned to a sub-mix channel therefore leaving the operator having to only operate one fader to bring up the choir, or a band group.  The Mackie was chosen for its ease of use and yet it is a very capable audio board for sophisticated live sound mixing.
+
+** TODO Page 49: Pictures
+   + This is a great idea to have pictures of various tech equipment pieces.  Perhaps you could expand upon this section in the future to include more equipment and descriptions of their use.
+
+** TODO Page 50: Country Fair Cable Layout
+   + Would it be possible to print this vertically so that it could fill the page and therefore be easier to read? I could also get it printed in colour as you reference coloured lines.
