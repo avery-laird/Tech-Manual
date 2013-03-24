@@ -8,7 +8,7 @@
 \contentsline {section}{Assemblies}{7}
 \contentsline {section}{Assembly Configuration}{7}
 \contentsline {section}{Full School Assembly}{7}
-\contentsline {subsection}{Gymnasium Lamps}{7}
+\contentsline {subsection}{Gymnasium Lamps}{8}
 \contentsline {subsection}{Gym Light Troubleshooting}{8}
 \contentsline {subsubsection}{Microplex (Data)}{8}
 \contentsline {subsubsection}{Circuit (Power)}{8}
@@ -18,7 +18,7 @@
 \contentsline {section}{Mid-September: Terry Fox Run / House Picnic}{9}
 \contentsline {subsection}{Speaker Positioning}{10}
 \contentsline {subsection}{SP500 Mixer Configuration}{10}
-\contentsline {section}{End of October: Manning Park Jazz Retreat}{10}
+\contentsline {section}{End of October: Manning Park Jazz Retreat}{11}
 \contentsline {subsection}{Equipment List: Manning Park Jazz Retreat}{11}
 \contentsline {subsection}{Setup}{11}
 \contentsline {subsection}{Wrapping up}{12}
